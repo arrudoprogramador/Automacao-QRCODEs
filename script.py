@@ -14,7 +14,7 @@ PASTA_PLANILHAS = os.path.join(PASTA_CONFIDENCIAIS, "planilha")
 PASTA_SAIDA = os.path.join(PASTA_CONFIDENCIAIS, "separados")
 CAMINHO_RELATORIO = os.path.join(PASTA_CONFIDENCIAIS, "relatorio_nao_encontrados.txt")
 
-RATIO_CONFIANCA = 0.90
+RATIO_CONFIANCA = 0.85
 MARGEM_VENCEDOR = 0.08
 
 
